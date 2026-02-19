@@ -19,7 +19,7 @@ I’m always seeking to improve my skills in **Fullsack Development**, exploring
 
 ### 🤖 Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,angular,nest,ruby,postgres,mysql,docker,linux,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,angular,ruby,postgres,mysql,docker,linux,godot)](https://skillicons.dev)
 
 > **OS:** Currently using **CachyOS** 🐧
 
@@ -27,7 +27,7 @@ I’m always seeking to improve my skills in **Fullsack Development**, exploring
 
 ### 🌱 Currently Learning & Focusing
 - 🛡️ **Web Security:** Vulnerability analysis and secure coding practices.
-- 🏗️ **Fullstack Development:** Mastering Nest.js and Angular ecosystems.
+- 🏗️ **Fullstack Development:** Mastering Spring and Angular ecosystems.
 - 📊 **Computer Science Foundations:** Advanced Data Structures and Algorithm Analysis.
 - 🎮 **Game Dev:** Exploring mechanics in Ruby (Gosu) and Godot.
 
