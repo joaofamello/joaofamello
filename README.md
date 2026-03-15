@@ -3,7 +3,7 @@
 **`Fullstack Developer & Linux Enthusiast`**
 
 I'm a **Computer Science student at UFAPE**.  
-I’m always seeking to improve my skills in **Fullsack Development**, exploring different languages, frameworks, and best coding practices. Currently, I'm bridging my fullstack skills with my deep interest in **Web Cybersecurity**.
+I’m always seeking to improve my skills in **Fullsack Development**, exploring different languages, frameworks, and best coding practices. Currently, i'm bridging my fullstack skills with my deep interest in **Web Cybersecurity**.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/joaofamello/" target="_blank">
@@ -19,7 +19,7 @@ I’m always seeking to improve my skills in **Fullsack Development**, exploring
 
 ### 🤖 Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,angular,ruby,postgres,mysql,docker,linux,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,go,ts,react,nextjs,python,tailwind,postgres,mysql,docker,linux)](https://skillicons.dev)
 
 > **OS:** Currently using **CachyOS** 🐧
 
@@ -27,9 +27,15 @@ I’m always seeking to improve my skills in **Fullsack Development**, exploring
 
 ### 🌱 Currently Learning & Focusing
 - 🛡️ **Web Security:** Vulnerability analysis and secure coding practices.
-- 🏗️ **Fullstack Development:** Mastering Spring and Angular ecosystems.
+- 🏗️ **Fullstack Development:** Mastering C#, Go and Next.js ecosystems.
 - 📊 **Computer Science Foundations:** Advanced Data Structures and Algorithm Analysis.
-- 🎮 **Game Dev:** Exploring mechanics in Ruby (Gosu) and Godot.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=joaofamello&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="joaofamello's Stats" />
+</p>
 
 ---
 
