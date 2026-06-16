@@ -1,9 +1,9 @@
 # 👨🏻‍💻 João Francisco
 
-**`Fullstack Developer & Linux Enthusiast`**
+**`Fullstack Developer & CyberSecurity`**
 
 I'm a **Computer Science student at UFAPE**.  
-I’m always seeking to improve my skills in **Fullsack Development**, exploring different languages, frameworks, and best coding practices. Currently, i'm bridging my fullstack skills with my deep interest in **Web Cybersecurity**.
+I’m always seeking to improve my skills in **Fullsack Development**, exploring different languages, frameworks, and best coding practices. Currently, i'm bridging my fullstack skills with my deep interest in **Cybersecurity**.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/joaofamello/" target="_blank">
@@ -19,7 +19,7 @@ I’m always seeking to improve my skills in **Fullsack Development**, exploring
 
 ### 🤖 Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,go,ts,react,nextjs,python,tailwind,postgres,mysql,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,go,react,python,postgres,mysql,docker,linux)](https://skillicons.dev)
 
 > **OS:** Currently using **CachyOS** 🐧
 
@@ -27,7 +27,7 @@ I’m always seeking to improve my skills in **Fullsack Development**, exploring
 
 ### 🌱 Currently Learning & Focusing
 - 🛡️ **Web Security:** Vulnerability analysis and secure coding practices.
-- 🏗️ **Fullstack Development:** Mastering C#, Go and Next.js ecosystems.
+- 🏗️ **Fullstack Development:** Mastering C#, Python and GoLang.
 - 📊 **Computer Science Foundations:** Advanced Data Structures and Algorithm Analysis.
 
 ---
