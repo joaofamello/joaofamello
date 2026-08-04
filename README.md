@@ -1,6 +1,6 @@
 # 👨🏻‍💻 João Francisco
 
-**`Fullstack Developer & CyberSecurity`**
+**`Backend & CyberSecurity`**
 
 I'm a **Computer Science student at UFAPE**.  
 I’m always seeking to improve my skills in **Fullsack Development**, exploring different languages, frameworks, and best coding practices. Currently, i'm bridging my fullstack skills with my deep interest in **Cybersecurity**.
@@ -19,7 +19,7 @@ I’m always seeking to improve my skills in **Fullsack Development**, exploring
 
 ### 🤖 Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,go,react,python,postgres,mysql,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,go,python,postgres,mysql,docker,linux)](https://skillicons.dev)
 
 > **OS:** Currently using **CachyOS** 🐧
 
@@ -27,8 +27,8 @@ I’m always seeking to improve my skills in **Fullsack Development**, exploring
 
 ### 🌱 Currently Learning & Focusing
 - 🛡️ **Web Security:** Vulnerability analysis and secure coding practices.
-- 🏗️ **Fullstack Development:** Mastering C#, Python and GoLang.
-- 📊 **Computer Science Foundations:** Advanced Data Structures and Algorithm Analysis.
+- 🏗️ **Fullstack Development:** Mastering Python and Golang as vulnerability exploitation tools.
+- 📊 **Computer Science Foundations:** Advanced Data Structures, Algorithm Analysis, AI, OS and Computer Networks.
 
 ---
 
@@ -40,6 +40,7 @@ I’m always seeking to improve my skills in **Fullsack Development**, exploring
 ---
 
 ### 🚀 Featured Projects
+- **JwtAuthTemplate:** a template for authentication and authorization in ASP.NET Core
 - **Roomie:** A student housing management platform built with Spring Boot, Angular and PostgreSQL.
 - **Battleship:** A Ruby-based strategy game for Programming Language Paradigms.
 
