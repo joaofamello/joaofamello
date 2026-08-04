@@ -19,7 +19,7 @@ I’m always seeking to improve my skills in **Fullsack Development**, exploring
 
 ### 🤖 Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,go,python,postgres,mysql,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,go,postgres,mysql,docker,linux)](https://skillicons.dev)
 
 > **OS:** Currently using **CachyOS** 🐧
 
@@ -29,13 +29,6 @@ I’m always seeking to improve my skills in **Fullsack Development**, exploring
 - 🛡️ **Web Security:** Vulnerability analysis and secure coding practices.
 - 🏗️ **Fullstack Development:** Mastering Python and Golang as vulnerability exploitation tools.
 - 📊 **Computer Science Foundations:** Advanced Data Structures, Algorithm Analysis, AI, OS and Computer Networks.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=joaofamello&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="joaofamello's Stats" />
-</p>
 
 ---
 
