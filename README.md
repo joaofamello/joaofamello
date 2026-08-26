@@ -19,7 +19,7 @@ I’m always seeking to improve my skills in **Fullsack Development**, exploring
 
 ### 🤖 Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,go,postgres,mysql,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,express,java,spring,python,go,postgres,mysql,docker,linux)](https://skillicons.dev)
 
 > **OS:** Currently using **CachyOS** 🐧
 
