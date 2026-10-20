@@ -1,6 +1,6 @@
 # 👨🏻‍💻 João Francisco
 
-**`Backend & CyberSecurity`**
+**`Fullstack Development & CyberSecurity`**
 
 I'm a **Computer Science student at UFAPE**.  
 I’m always seeking to improve my skills in **Fullsack Development**, exploring different languages, frameworks, and best coding practices. Currently, i'm bridging my fullstack skills with my deep interest in **Cybersecurity**.
